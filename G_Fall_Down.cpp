@@ -38,7 +38,7 @@ int main()
         }
         for (auto x : v)
         {
-            cout << x << '\n';
+            cout << x <<"*"<< '\n';
         }
     }
     return 0;
